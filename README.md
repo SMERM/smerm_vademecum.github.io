@@ -51,3 +51,9 @@ Scuola di Musica Elettronica di Roma
 ### Supporto
 
 Per informazioni, dubbi o perplessità puoi contattarci su [slack](https://smerm.slack.com/) al canale denominato #vademecum
+
+### SMERM Social Links
+
+[Youtube](https://www.youtube.com/channel/UCG7pgN812PK0nrAJZQ5FeVA)
+[Slack](https://smerm.slack.com/)
+[GitHub](https://github.com/SMERM)
