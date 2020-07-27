@@ -25,7 +25,7 @@ La Scuola di Musica Elettronica di Roma del Conservatorio Santa Cecilia è situa
 
 Le aule che lo studente utilizzerà maggiormente nel suo percorso di studi sono le seguenti:
 - Aula 1 - Riccardo Bianchini
-![aula1](resources/aula1.jpg)
+![aula1](resources/aula1.JPG)
 
 - Aula 2 - Franco Evangelisti
 ![aula2](resources/aula2.jpg)
@@ -33,18 +33,21 @@ Le aule che lo studente utilizzerà maggiormente nel suo percorso di studi sono 
 ![sala_accademica](resources/sala_accademica.jpg)
 
 ### FAQs
-- Cosa significa SMERM?
-    Scuola di Musica Elettronica di Roma
+**Cosa significa SMERM?**
+
+Scuola di Musica Elettronica di Roma
+
 - Perche iscriversi?
 - Come ci si iscrive al corso?
 - Chi sono i docenti del corso?
-- Dove si svolgono i corsi?
 - Dove posso trovare i _piani di studio_?
 - Come si svolgono le ammissioni?
 - Quando si svolgono le ammissioni?
 - A quanto ammonta la retta?
 - A chi posso riferirmi per richiedere delle informazioni?
+- Dove e situtato il Conservatorio?
+- Dove si svolgono i corsi?
 
 ### Supporto
 
-Per informazioni, dubbi o perplessità puoi contattarci su [slack](smerm.slack.com) al canale denominato #vademecum
+Per informazioni, dubbi o perplessità puoi contattarci su [slack](https://smerm.slack.com/) al canale denominato #vademecum
