@@ -31,6 +31,7 @@ Le aule che lo studente utilizzerà maggiormente nel suo percorso di studi sono 
 - Sala Accademica
 ![sala_accademica](resources/sala_accademica.jpg)
 
+## FAQs
 
 ### Supporto
 
