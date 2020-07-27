@@ -2,7 +2,7 @@
 
 ### Software
 
-Utilizzo di software open source
+Utilizzo di software libero
 
 - Github
 - Editor di testo
