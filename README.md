@@ -1,4 +1,6 @@
-# Vademecum per gli studenti della Scuola di Musica Elettronica di Roma - Conservatorio Santa Cecilia
+# Conservatorio di Musica Santa Cecilia, Roma - Scuola di Musica Elettronica
+![logo](resources/logo-santacecilia-2-1024x351-768x263.png)
+## Vademecum per gli studenti
 
 ### Software
 
@@ -31,7 +33,7 @@ Le aule che lo studente utilizzerà maggiormente nel suo percorso di studi sono 
 - Sala Accademica
 ![sala_accademica](resources/sala_accademica.jpg)
 
-## FAQs
+### FAQs
 - Cosa significa SMERM?
 - Perche iscriversi?
 - Come ci si iscrive al corso?
